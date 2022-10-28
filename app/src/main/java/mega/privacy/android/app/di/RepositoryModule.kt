@@ -25,7 +25,6 @@ import kotlin.contracts.ExperimentalContracts
  * Repository module
  *
  * Provides all repository implementations
- *
  */
 @Module
 @InstallIn(SingletonComponent::class)
